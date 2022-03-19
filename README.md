@@ -13,4 +13,4 @@ Part time software engineer, currently in Highschool. I own/dev on [emerald](htt
 
 - I’m always looking to find and work on **free stuff** automation.
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=p-0001&show_icons=true&hide_border=false)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api/top-langs?username=p-0001&show_icons=true&theme=radical)
